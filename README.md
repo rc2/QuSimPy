@@ -117,3 +117,17 @@ Largely based on the code from [corbett/QuantumComputing](https://github.com/cor
 
 If you are interested in a efficient, high performance, hardware accelerated
 quantum computer simulator written in Rust, please check out [QCGPU](https://github.com/qcgpu/qcgpu-rust)
+
+# Installation
+
+python
+
+```bash
+python -m pip install git+https://github.com/rc2/QuSimPy.git@master
+```
+
+python3
+
+```bash
+python3 -m pip install git+https://github.com/rc2/QuSimPy.git@master
+```
